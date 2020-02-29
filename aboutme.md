@@ -4,7 +4,7 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-#  About Me
+#  Merve
 
 ------------
 
@@ -21,15 +21,15 @@ Laboratory of Embedded Systems.
 
 ###  Personal Information
 
-![job](sdfsdf "job") Computer Enginner
-![add](sdfsdf "add") Kocaeli,TURKEY
-![mail](sdfsdf "mail") mervetafralii@gmail.com
-![phone](sdfsdf "phone") 05457994843
+![job](/img/work.png) Computer Enginner
+![add](/img/home-run.png) Kocaeli,TURKEY
+![mail](/img/mail.png) mervetafralii@gmail.com
+![phone](/img/call.png) 05457994843
 
 
 ------------
 
-###  Education
+### ![Education](/img/mortarboard.png) Education
 
 
 ------------
@@ -47,7 +47,7 @@ Laboratory of Embedded Systems.
 ------------
 
 
-### Languages
+### ![Languages](/img/language.png) Languages
 
 ------------
 
@@ -60,12 +60,11 @@ Laboratory of Embedded Systems.
 
 -----------
 
-### Job Experience  
+### ![Job](/img/goal.png)Job Experience  
 
 ------------
 
 
-![](work)
  **Long Term Intern / NETAŞ /Defense Department**
 *January 2019- June-2019*
 - I worked on some voip technologies and I did Java application
@@ -97,8 +96,8 @@ Laboratory of Embedded Systems.
 
 ------------
 
-> You can see all my
-projects: https://github.com/mervetafrali
+ **You can see all my
+projects: https://github.com/mervetafrali**
 
 
 ------------
@@ -135,8 +134,7 @@ and Sobel Kernels
 ###  References
 
 ------------
-
-> Caner İhtiyar
+ Caner İhtiyar
 Technology Manager in KORDSA
 caner.ihtiyar@kordsa.com
 0505 922 09 24
