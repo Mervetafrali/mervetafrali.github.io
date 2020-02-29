@@ -8,7 +8,7 @@ subtitle: Why you'd want to go on a date with me
 
 ------------
  <p align="center">
-  <img width="50" height="50" src="/img/me.png">
+  <img width="100" height="100" src="/img/me.png">
 </p>
 
 I am a fourth year student in the Department of Computer Engineering at Kocaeli University.
