@@ -4,7 +4,7 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-#  Merve ![me](/img/me.jpg)
+#  Merve ![me](/img/me.png =50x50)
 
 ------------
   
