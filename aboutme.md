@@ -4,13 +4,143 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+#  About Me
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+------------
 
-What else do you need?
+I am a fourth year student in the Department of Computer Engineering at Kocaeli University.
+In 2019, I worked as a long term trainee at Netaş. I was working in the defense department
+about voip and some java applications.In the summer of 2018, I did my internship in
+Kordsa's global IT department. I worked on c# and mvc technologies in my internship.I did
+an internship for 2 years as a volunteer in the school department lab. I took 3 academic
+publications on image processing and did the work on wordpress at Kocaeli University
+Laboratory of Embedded Systems.
 
-### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+------------
+
+###  Personal Information
+
+![job](sdfsdf "job") Computer Enginner
+![add](sdfsdf "add") Kocaeli,TURKEY
+![mail](sdfsdf "mail") mervetafralii@gmail.com
+![phone](sdfsdf "phone") 05457994843
+
+
+------------
+
+###  Education
+
+
+------------
+
+**Kocaeli University**
+*2016 - 2020*
+- Kocaeli University Faculty of Engineering Computer Engineering
+- General Percent Average:3.08/4.00
+
+**Derince Anatolian High School**
+*2010 - 2014*
+- General Percent Average: 68.12/100
+
+
+------------
+
+
+### Languages
+
+------------
+
+
+|   |  Writing  | Reading   | Speaking  |
+| ----- | ------------ | ------------ | ------------ |
+| English  | Advanced  | Advanced  | Intermediate  |
+
+
+
+-----------
+
+### Job Experience  
+
+------------
+
+
+![](work)
+ **Long Term Intern / NETAŞ /Defense Department**
+*January 2019- June-2019*
+- I worked on some voip technologies and I did Java application
+
+**Full Stack Intern/KORDSA**
+*August 2018 - September 2018*
+- I worked as a Intern in Kordsa's Global IT department. I did Supplier Management Website and working with asp.net-MVC
+
+**Volunteer Intern / Embedded System Laboratory in Kocaeli University**
+*January 2016 - August 2018*
+- I published articles in image processing and I did applications in java and I designed a website in Wordpress
+
+
+------------
+
+###  Software Knowledge
+
+------------
+
+|   |   |
+| ------------ | ------------ |
+|  C # - Advanced | C - Intermediate  |
+| Python- Intermediate  |  Spring-Maven-Hibernate - Intermadiate |
+|  Java - Intermediate | Asp.net,MVC- Intermadiate  |
+| SQL - Intermediate  | Html,css,js- Intermadiate  |
+| Android- Intermadiate  | Angular.js,Node.js,React,Ionic-Intermadiate  |
+
+
+
+------------
+
+> You can see all my
+projects: https://github.com/mervetafrali
+
+
+------------
+
+####  Social Activities 
+
+------------
+
+- Online Games
+- e-Sports
+- Playing Ukulele 
+- Swimming
+- Travel
+- Writing
+
+
+
+------------
+
+####  Articles
+
+------------
+- Object Detection and Segmentation on Apple Tree Images by Using
+Morphological Operations and Vertical and Horizontal Histogram Values
+-  Wound Edge Detection Operation Using Enhanced Canny Edge Detection
+Algorithm on Dermatological Images
+-  The Enhancement of Canny Edge Detection Algorithm Using Prewitt, Robert
+and Sobel Kernels
+
+
+
+------------
+
+###  References
+
+------------
+
+> Caner İhtiyar
+Technology Manager in KORDSA
+caner.ihtiyar@kordsa.com
+0505 922 09 24
+
+------------
+
+
