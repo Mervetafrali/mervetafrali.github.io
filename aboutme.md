@@ -21,9 +21,15 @@ Laboratory of Embedded Systems.
 
 ###  Personal Information
 
+------------
+
+
 ![job](/img/work.png) Computer Enginner
+
 ![add](/img/home-run.png) Kocaeli,TURKEY
+
 ![mail](/img/mail.png) mervetafralii@gmail.com
+
 ![phone](/img/call.png) 05457994843
 
 
@@ -34,13 +40,16 @@ Laboratory of Embedded Systems.
 
 ------------
 
+
 **Kocaeli University**
 *2016 - 2020*
+
 - Kocaeli University Faculty of Engineering Computer Engineering
 - General Percent Average:3.08/4.00
 
 **Derince Anatolian High School**
 *2010 - 2014*
+
 - General Percent Average: 68.12/100
 
 
@@ -52,9 +61,13 @@ Laboratory of Embedded Systems.
 ------------
 
 
+
+
+
 |   |  Writing  | Reading   | Speaking  |
 | ----- | ------------ | ------------ | ------------ |
 | English  | Advanced  | Advanced  | Intermediate  |
+
 
 
 
@@ -65,17 +78,27 @@ Laboratory of Embedded Systems.
 ------------
 
 
+
+
  **Long Term Intern / NETAŞ /Defense Department**
+
 *January 2019- June-2019*
+
 - I worked on some voip technologies and I did Java application
 
 **Full Stack Intern/KORDSA**
+
 *August 2018 - September 2018*
+
 - I worked as a Intern in Kordsa's Global IT department. I did Supplier Management Website and working with asp.net-MVC
 
 **Volunteer Intern / Embedded System Laboratory in Kocaeli University**
+
 *January 2016 - August 2018*
+
 - I published articles in image processing and I did applications in java and I designed a website in Wordpress
+
+
 
 
 ------------
@@ -83,6 +106,8 @@ Laboratory of Embedded Systems.
 ###  Software Knowledge
 
 ------------
+
+
 
 |   |   |
 | ------------ | ------------ |
@@ -94,10 +119,14 @@ Laboratory of Embedded Systems.
 
 
 
+
+
 ------------
 
  **You can see all my
 projects: https://github.com/mervetafrali**
+
+
 
 
 ------------
@@ -105,6 +134,8 @@ projects: https://github.com/mervetafrali**
 ####  Social Activities 
 
 ------------
+
+
 
 - Online Games
 - e-Sports
@@ -120,10 +151,15 @@ projects: https://github.com/mervetafrali**
 ####  Articles
 
 ------------
+
+
+
 - Object Detection and Segmentation on Apple Tree Images by Using
 Morphological Operations and Vertical and Horizontal Histogram Values
+
 -  Wound Edge Detection Operation Using Enhanced Canny Edge Detection
 Algorithm on Dermatological Images
+
 -  The Enhancement of Canny Edge Detection Algorithm Using Prewitt, Robert
 and Sobel Kernels
 
@@ -134,9 +170,14 @@ and Sobel Kernels
 ###  References
 
 ------------
- Caner İhtiyar
+
+
+Caner İhtiyar
+
 Technology Manager in KORDSA
+
 caner.ihtiyar@kordsa.com
+
 0505 922 09 24
 
 ------------
