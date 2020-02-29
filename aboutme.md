@@ -4,10 +4,13 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-#  Merve ![me](/img/me.png){ width=20% }
+#  Merve 
 
 ------------
-  
+ <p align="center">
+  <img width="50" height="50" src="/img/me.png">
+</p>
+
 I am a fourth year student in the Department of Computer Engineering at Kocaeli University.
 In 2019, I worked as a long term trainee at Netaş. I was working in the defense department
 about voip and some java applications.In the summer of 2018, I did my internship in
