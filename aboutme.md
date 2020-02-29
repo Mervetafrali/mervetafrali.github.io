@@ -182,5 +182,4 @@ caner.ihtiyar@kordsa.com
 
 ------------
 
-For my CV
-[download this](/_includes/MerveTAFRALI-CV.pdf)
+

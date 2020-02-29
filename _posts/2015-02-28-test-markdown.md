@@ -1,78 +1,71 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+title: Bu Site Nasıl Kuruldu ?
+subtitle: Github.io Nedir? 
+tags: [Github]
 comments: true
 ---
 
-You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+#  GitHub Pages Nedir ?
 
-**Here is some bold text**
+Github pages yazınca karşımıza çıkan ilk sayfada yazan[[1]][1] ilk cümle ile başlayalım,
 
-## Here is a secondary heading
-
-Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+> GitHub Sayfaları, GitHub aracılığıyla hosting edilen  ve kolayca yayınlanabilen genel web sayfalarıdır.
 
 
-How about a yummy crepe?
+Kendi hakkımda bir bloğum olsun host ücreti vermiyeyim, Wordpress ile uğraşmayayım bir kaç bilgi anlatayım arada da post atarım düşüncesiyle yola çıkıp basit hızlı bir şekilde web sitesi oluşturmak istiyorsanız bunun en kolay çözümü Github Pages.
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+Jekyll ile hızlıca görünüm ayarlama ve  domain adı alınca da kolay ayarlama özelliklerine de sahip ayrıca.
 
-It can also be centered!
+Peki nasıl yapacağız Github Pages ile bu kendi blogunu oluşturma işlemini derseniz o iş gerçekten çok kolay.
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .center-block :}
+Öncelikle bir Github hesabınızın olması gerekiyor.
 
-Here's a code chunk:
+*Yoksa kayıt yada oturum açma işlemi için -> https://github.com/ *
 
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
+#### Web Sitesi Oluşturma
 
-And here is the same code with syntax highlighting:
+------------
 
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
+Giriş yaptıktan sonra new repository oluşturmanız gerekiyor.
+![repo](/img/newrepo.png)
+Oluşturacağınız reponun ismine  ***kullanıcıadınız.github.io***
+vermeniz gerekiyor.
+Yeni reponuzu oluşturduktan sonra ayarlar kısmında aşağı inerek  **GitHub Pages** kısmına gelin ardından da **Choose a theme** butonuna basın. 
+İstediğiniz temayı seçerek ilerleyin ve sitenizi oluşturun. 
+Gelen sayfadaki markdown dosyasını düzenleyerek sayfanızda basit değişiklikler yapabilirsiniz. 
+Yaptığınız değişiklikleri kaydetmek için **Commit changes** butonuna basınız.  
+Siteinizi görmek için arama moturuna  ***kullanıcıadınız.github.io*** yazarak ulaşabilirsiniz!
+:tw-1f4aa:  :rocket:
+Değişiklik yapmak için* _config.yml*  uzantılı dosyayı kullanabilirsiniz.  
 
-And here is the same code yet again but with line numbers:
+Daha detaylı bilgi için  -> https://guides.github.com/features/pages/
 
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
+Sayfanızın daha güzel görünümü için -> https://github.com/daattali/beautiful-jekyll kullanabilirsiniz. 
 
-## Boxes
-You can add notification, warning and error boxes like this:
+**Ek Kaynak ->** https://gokhansengun.com/blogun-teknik-altyapisi/ 
 
-### Notification
+####  Peki ya Domain ?
 
-{: .box-note}
-**Note:** This is a notification box.
+------------
 
-### Warning
+Domain işlemleri bu uğraşlar arasında en kolay olanı, özellikle de öğrenci iseniz çok daha keyiflisi.
 
-{: .box-warning}
-**Warning:** This is a warning box.
+Öğrenci olarak Github hesabınızı onaylarsanız linkte [[2]][2]  size sunulan onlarca fırsat olduğunu keşfedebilirsiniz. 
+![Educ](/img/educat.png)
+JetBrains ürünlerinden DigitalOcean'da kullanabileceğiniz 50 $ çeke kadar onlarca fırsat var.
+Domain alma da bunlardan biri. 
+Ben namecheap ile bir yıllık domain ve SSL sertifikası aldım. 
+Aldğım domainde github eklentisi ile A record ayarları kolaylıkla geldi, yapmak gereken tek şey repomda olan  CMAKE uzantılı dosyanın içine domain ismimi eklemek oldu.
+İsim eklendikten 10 dakika sonra kullanabilir hale geldi.
 
-### Error
+Bu konuyla ilgili tüm sorunlarınızın cevaplarına kolaylıkla ulaşabilirsiniz. Bu yüzden mutlaka kendi sitenizi kurmaya çalışınız.
 
-{: .box-error}
-**Error:** This is an error box.
+------------
+
+
+XOXO:tw-270c:
+
+
+[1]: https://guides.github.com/features/pages/ "GitHub Pages"
+[2]: https://education.github.com/pack "EducationPack"
