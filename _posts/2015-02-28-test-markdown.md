@@ -19,6 +19,7 @@ Jekyll ile hızlıca görünüm ayarlama ve  domain adı alınca da kolay ayarla
 
 Peki nasıl yapacağız Github Pages ile bu kendi blogunu oluşturma işlemini derseniz o iş gerçekten çok kolay.
 
+
 Öncelikle bir Github hesabınızın olması gerekiyor.
 
 *Yoksa kayıt yada oturum açma işlemi için -> https://github.com/ *
@@ -64,7 +65,8 @@ Bu konuyla ilgili tüm sorunlarınızın cevaplarına kolaylıkla ulaşabilirsin
 ------------
 
 
-XOXO:tw-270c:
+XOXO
+:tw-270c:
 
 
 [1]: https://guides.github.com/features/pages/ "GitHub Pages"
