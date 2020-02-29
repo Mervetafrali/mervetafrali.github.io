@@ -183,4 +183,4 @@ caner.ihtiyar@kordsa.com
 ------------
 
 For my CV
-[download this](/includes/MerveTAFRALI-CV.pdf)
+[download this](/_includes/MerveTAFRALI-CV.pdf)
