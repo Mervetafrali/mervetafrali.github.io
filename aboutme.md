@@ -11,13 +11,10 @@ subtitle: Why you'd want to go on a date with me
   <img width="150" height="150" src="/img/me.png">
 </p>
 
-I am a fourth year student in the Department of Computer Engineering at Kocaeli University.
-In 2019, I worked as a long term trainee at Netaş. I was working in the defense department
-about voip and some java applications.In the summer of 2018, I did my internship in
-Kordsa's global IT department. I worked on c# and mvc technologies in my internship.I did
-an internship for 2 years as a volunteer in the school department lab. I took 3 academic
-publications on image processing and did the work on wordpress at Kocaeli University
-Laboratory of Embedded Systems.
+I graduated from Kocaeli University in July 2020 as a Computer Engineer. I am currently working as a Mobile Application Developer at Huawei R&G in Istanbul. 
+I worked as a long term trainee at Netaş, in 2019 . I was working in the Defense Department about VoIP and some java applications.In the summer of 2018, 
+I did my internship in Kordsa's Global IT department. I worked on C# and MVC technologies in my internship. 
+I did an internship for 2 years as a volunteer in the school department lab
 
 
 ------------
@@ -80,7 +77,10 @@ Laboratory of Embedded Systems.
 
 ------------
 
+  **Software Engineer- Huawei R&D in Istanbul**
 
+  *17/08/2020-Still working* 
+ - Mobile application developer
 
 
  **Long Term Intern / NETAŞ /Defense Department**
@@ -114,11 +114,10 @@ Laboratory of Embedded Systems.
 
 |   |   |
 | ------------ | ------------ |
-|  C # - Advanced | C - Intermediate  |
-| Python- Intermediate  |  Spring-Maven-Hibernate - Intermadiate |
-|  Java - Intermediate | Asp.net,MVC- Intermadiate  |
-| SQL - Intermediate  | Html,css,js- Intermadiate  |
-| Android- Intermadiate  | Angular.js,Node.js,React,Ionic-Intermadiate  |
+|  Js- Intermadiate | Java - Intermediate  |
+| Android- Intermadiate  |  Angular.js,Node.js,React.js,Ionic-Intermadiate |
+|  C - Intermediate | C#- Intermadiate  |
+
 
 
 
